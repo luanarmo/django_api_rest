@@ -1,0 +1,22 @@
+# Archivos y directorios generados automáticamente
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
+media/
+
+# Archivos de configuración local
+.env
+.env.*
+
+# Dependencias de entorno virtual
+venv/
+env/
+
+# Archivos de migraciones de Django
+*/migrations/
+
+# Archivos de registro (logs)
+logs/
+
+# Otros archivos y carpetas específicos de tu proyecto
